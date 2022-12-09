@@ -2,7 +2,7 @@
 
 **Меня зовут Екатерина Слеткова.**
 
-![это я](https://photos.google.com/photo/AF1QipPyqnMFXePzyY7h9q_P5H8cLGfn3QedSCo1PN5M)
+![это я](./img/rpV9idNWc5k.jpg)
 
 _Я учусь в Нетологии на Тестировщика ПО._
 ***И мне это очень нравится!***
